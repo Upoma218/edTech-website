@@ -1,0 +1,16 @@
+/* @media only screen and (min-width: 992px){
+    .text-margining{
+        padding: 100px;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .text-margining{
+        margin-bottom: 70px;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px){
+    .text-margining{
+        margin-bottom: auto;
+        margin-top: auto;
+    }
+} */
